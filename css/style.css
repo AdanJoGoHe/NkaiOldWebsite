@@ -1,0 +1,10 @@
+A:link { COLOR: #646464; TEXT-DECORATION: none; font-weight: normal; font-size: larger; }
+			A:visited { COLOR: #646464; TEXT-DECORATION: none; font-weight: normal; font-size: larger;  }
+			A:active { COLOR: #B9869B; TEXT-DECORATION: none;  }
+			A:hover { COLOR: #C8C8C8; TEXT-DECORATION: none; font-weight: bold; font-size: larger; }
+			BODY { COLOR: #646464 }
+			.astext { background:none; border:none; margin:0; padding:0; }
+			.hover_img a { position:relative; }
+			.hover_img a span { position:absolute; display:none; z-index:99; }
+			.hover_img a:hover span { display:block; }
+			.active { pointer-events: none; cursor: default; }
