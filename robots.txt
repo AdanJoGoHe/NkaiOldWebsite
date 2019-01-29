@@ -1,0 +1,10 @@
+User-Agent: *
+
+Disallow: 
+
+Disallow: /ts3
+
+Disallow: /admin
+
+Disallow: /js
+

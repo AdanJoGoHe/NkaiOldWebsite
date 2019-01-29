@@ -1,0 +1,267 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Nkai Servers</title>
+
+<!-- Import animate.css -->
+<link rel="stylesheet" href="animate.css" />
+
+<!-- Import dinamic.css for multiresolution support -->
+<link rel="stylesheet" href="dinamic.css" />
+ 
+<!-- Import jquery.js -->
+<script src="js/jquery.js"></script>
+
+<!-- Colors for text and links -->
+<style type="text/css">
+A:link { COLOR: #646464; TEXT-DECORATION: none; font-weight: normal }
+A:visited { COLOR: #646464; TEXT-DECORATION: none; font-weight: normal }
+A:active { COLOR: #B9869B; TEXT-DECORATION: none }
+A:hover { COLOR: #C8C8C8; TEXT-DECORATION: none; font-weight: normal }
+BODY { COLOR: #646464 }
+.astext { background:none; border:none; margin:0; padding:0; }
+.hover_img a { position:relative; }
+.hover_img a span { position:absolute; display:none; z-index:99; }
+.hover_img a:hover span { display:block; }
+.active { pointer-events: none; cursor: default; }
+</style>
+
+<!-- Timing the animations -->
+<script>
+setTimeout(function () {
+    $('.zeroeth').show().addClass('animated fadeIn');}, 1000
+);
+
+setTimeout(function () {
+    $('.first').show().addClass('animated fadeIn');}, 1500
+);
+
+setTimeout(function () {
+    $('.second').show().addClass('animated fadeInRight');}, 1000
+);
+
+setTimeout(function () {
+    $('.third').show().addClass('animated fadeInRight');}, 1050
+);
+
+setTimeout(function () {
+    $('.fourth').show().addClass('animated fadeInRight');}, 1100
+);
+
+setTimeout(function () {
+    $('.fifth').show().addClass('animated fadeInRight');}, 1150
+);
+
+setTimeout(function () {
+    $('.sixth').show().addClass('animated fadeInRight');}, 1200
+);
+
+setTimeout(function () {
+    $('.seventh').show().addClass('animated fadeInRight');}, 1250
+);
+
+setTimeout(function () {
+    $('.eigth').show().addClass('animated fadeInRight');}, 1300
+);
+
+setTimeout(function () {
+    $('.ninth').show().addClass('animated fadeInRight');}, 1350
+);
+
+setTimeout(function () {
+    $('.tenth').show().addClass('animated fadeInRight');}, 1400
+);
+
+setTimeout(function () {
+    $('.eleventh').show().addClass('animated fadeInRight');}, 1450
+);
+
+setTimeout(function () {
+    $('.twelth').show().addClass('animated fadeInRight');}, 1500
+);
+</script>   
+
+</head>
+<body scroll="no" style="overflow: hidden">
+<!-- International time. Pacific time, Eastern time, Central Europe time, Japanese time, Korea time -->
+<iframe src="http://free.timeanddate.com/clock/i4pd04wd/n137/tluk/fn16/fc646464/tct/pct/ts1/ta1" frameborder="0" width="64" height="14" allowTransparency="true" class="active"></iframe> |
+<iframe src="http://free.timeanddate.com/clock/i4pd04wd/n179/tluk/fn16/fc646464/tct/pct/ts1/ta1" frameborder="0" width="63" height="14" allowTransparency="true" class="active"></iframe> |
+<iframe src="http://free.timeanddate.com/clock/i4pd04wd/n48/tluk/fn16/fc646464/tct/pct/ts1/ta1" frameborder="0" width="69" height="14" allowTransparency="true" class="active"></iframe> |
+<iframe src="http://free.timeanddate.com/clock/i4pd04wd/n248/tluk/fn16/fc646464/tct/pct/ts1/ta1" frameborder="0" width="61" height="14" allowTransparency="true" class="active"></iframe> |
+<iframe src="http://free.timeanddate.com/clock/i4pd04wd/n235/tluk/fn16/fc646464/tct/pct/ts1/ta1" frameborder="0" width="62" height="14" allowTransparency="true" class="active"></iframe> |
+<br>
+<a href="http://nkai.info/admin/" target="_blank">Admin Zone</a>
+<!-- The main title, with animation -->
+<center><p style="font-size: 30pt;"><font color="#b5c2d5">
+	<a><span>唯一の痛み、</span></a></font>
+</p></center>
+<!-- Second Line -->
+<center><p style="font-size: 30pt;"><font color="#b5c2d5"><a>
+	<span>より多くの何もありません。</span></a></font>
+</p></center>
+
+<!-- Table with titles dividers, and links; animations timed based on section above -->
+
+<table align="center">
+<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">Main Sites</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="second" style="display:none"> 
+<a HREF="https://tweetdeck.twitter.com/" target="_blank">TweetDeck</a> |
+<a HREF="https://osu.ppy.sh/" target="_blank">Osu!</a> |
+<a HREF="https://web.whatsapp.com/" target="_blank">Whatsapp</a> |
+<a HREF="https://www.youtube.com/?hl=jp&gl=JP" target="_blank">Youtube</a> |
+<a HREF="ts3server://nkai.info">Teamspeak</a> |
+<a HREF="ftp://nkai.no-ip.info/Changelog.txt" target="_blank">Website ChangeLog</a> |
+	<tr>
+	<td>
+<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">4chan</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="third" style="display:none"> 
+<a HREF="http://4chan.org/g" target="_blank">Technology</a> |
+<a HREF="http://4chan.org/t" target="_blank">Torrent</a> |
+<a HREF="http://4chan.org/gif" target="_blank">Gif</a> |
+<a HREF="http://4chan.org/w" target="_blank">Anime-Wallpaper</a> |
+	<tr>
+	<td>
+<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">Reddit</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="fourth" style="display:none"> 
+<a HREF="http://www.reddit.com/r/pcmasterrace" target="_blank">PcMasterRace</a> |
+<a HREF="http://www.reddit.com/r/linuxmasterrace" target="_blank">LinuxMasterRace</a> |
+<a HREF="http://www.reddit.com/r/wtf" target="_blank">WTF</a> |
+<a HREF="http://www.reddit.com/r/guns" target="_blank">Guns</a> |
+<a HREF="http://www.reddit.com/r/GlobalOffensive/" target="_blank">CS:GO</a> |
+	<tr> 
+	<td>
+<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">Serius Business</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="fourth" style="display:none"> 
+<a HREF="http://www.gmail.com" target="_blank">Gmail</a> |
+<a HREF="http://www.amazon.es/" target="_blank">Amazon</a> |
+<a HREF="https://www.cowsep.com/" target="_blank">Cowsep</a> |
+<a HREF="https://steamdb.info/" target="_blank">SteamDB</a> |
+<a HREF="https://steamstat.us/" target="_blank">Steam Status</a> |
+<a HREF="https://r-1.ch/analyzer/" target="_blank">Twitch Analyzer</a> |
+<a HREF="http://pcgamingwiki.com/wiki/Home" target="_blank">Pc Gaming Wiki</a> |
+	<tr>
+	<td>
+<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">Torrents</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="fifth" style="display:none"> 
+<a HREF="http://thepiratebay.se" target="_blank">Pirate Bay</a> |
+<a HREF="http://kickass.to/" target="_blank">Kickass</a> |
+	<tr>
+	<td>
+<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">Music</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="sixth" style="display:none"> 
+<a HREF="http://hypster.com/hypsterPlayer/MPL?media_type=playlist&playlist_id=6739915&us_id=5042900&TMRC=6" target="_blank">BRNA!</a> |
+	<tr>
+	<td>
+<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">Anime</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="seventh" style="display:none"> 
+<a HREF="http://myanimelist.net/" target="_blank">My Anime List</a> |
+<a HREF="http://www.animeflv.net" target="_blank">AnimeFLV</a> |
+	<tr>
+	<td>
+<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">Customize</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="eigth" style="display:none"> 
+<a HREF="http://deviantart.com" target="_blank">Deviantart</a> |
+<a HREF="http://nanami-tan.info/" target="_blank">Nanami-tan</a> |
+<a HREF="http://alpha.wallhaven.cc/" target="_blank">WallHaven</a> |
+	<tr>
+	<td>
+<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">For Build</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="ninth" style="display:none"> 
+<a HREF="http://www.pcpartpicker.com/parts/partlist/" target="_blank">PcPartPicker</a> |
+<a HREF="http://www.logicalincrements.com/" target="_blank">Logical Increments</a> |
+<a HREF="http://www.logicalincrements.com/peripherals/index.html" target="_blank">Logical Increments Peripherals</a> |
+<a HREF="http://www.anandtech.com/bench/" target="_blank">Anandtech</a> |
+	<tr>
+	<td>
+<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">Profiles</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="tenth" style="display:none"> 
+<a HREF="https://osu.ppy.sh/u/3493247" target="_blank">Osu!</a> |
+<a HREF="http://steamcommunity.com/id/MarcXD2214/" target="_blank">Steam</a> |
+<a HREF="http://csgo-stats.com/marcxd2214/" target="_blank">CS:GO</a> |
+	<tr>
+	<td>
+	<div class="first" style="display:none"> 
+<div align="right"><font color="#b5c2d5"><a>
+	<span class="shh">Stream</span>
+</a></font></div>
+	<td>  
+<div class="zeroeth" style="display:none">
+>>
+	<td>
+<div class="eleventh" style="display:none">
+<object type="application/x-shockwave-flash" height="151" width="250" id="live_embed_player_flash" data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=monstercat" bgcolor="#000000"><param name="allowFullScreen" value="false"/><param name="allowScriptAccess" value="always"/><param name="allowNetworking" value="all"/><param name="movie" value="http://www.twitch.tv/widgets/live_embed_player.swf"/><param name="flashvars" value="hostname=www.twitch.tv&channel=monstercat&auto_play=false"/></object>
+<object type="application/x-shockwave-flash" height="151" width="250" id="live_embed_player_flash" data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=marcxd2214" bgcolor="#000000"><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="allowNetworking" value="all"/><param name="movie" value="http://www.twitch.tv/widgets/live_embed_player.swf"/><param name="flashvars" value="hostname=www.twitch.tv&channel=marcxd2214&auto_play=false"/></object>
+<object type="application/x-shockwave-flash" height="151" width="250" id="live_embed_player_flash" data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=alexelcapo" bgcolor="#000000"><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="allowNetworking" value="all"/><param name="movie" value="http://www.twitch.tv/widgets/live_embed_player.swf"/><param name="flashvars" value="hostname=www.twitch.tv&channel=alexelcapo&auto_play=false"/></object>
+</body>
+</html>
